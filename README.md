@@ -1,4 +1,4 @@
 # Sticky-Notes
 
 - Bitirdiyim muddet:3 gun
-İstifade etdiyim texnologiyalar:HTML,SASS,JavaScript
+- İstifade etdiyim texnologiyalar:HTML,SASS,JavaScript
